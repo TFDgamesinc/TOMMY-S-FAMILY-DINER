@@ -1,0 +1,378 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 273,
+    "major": 5,
+    "minor": 6,
+    "revision": 0
+  },
+  "initialGDVersion": "5.6.273",
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "da2f1fdf-0cfc-4288-82dc-159f4930276e",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Tommy's Family Diner - Copy",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/VT323-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "VT323-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/image/39762DAE-0F67-443E-98C4-43C0EA7E7A91.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "39762DAE-0F67-443E-98C4-43C0EA7E7A91.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/a39700a27010829d952dbd598f49c0550eb4e0d90bbca0b6e19b4da103bed9a5-39762DAE-0F67-443E-98C4-43C0EA7E7A91.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/IMG_5264.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_5264.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/f569c8d7d372329f948949b200865c72108c2b728729aa02df5b949806579afe-IMG_5264.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/IMG_5265.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_5265.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/5c368b3f8b1f894cd17c541bf6df3ee248c31b6b1ba97e8fe3f90dd4defba9c3-IMG_5265.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/C232155A-1B23-42D8-A032-8A9F951E2064.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "C232155A-1B23-42D8-A032-8A9F951E2064.jpeg",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/27ab3322123ed1bde6a71b406cd55203570284a08cd09dbd474ebffeb9d539a3-C232155A-1B23-42D8-A032-8A9F951E2064.jpeg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/065E693C-0197-4C9A-A8E5-3ED66C1D6A46.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "065E693C-0197-4C9A-A8E5-3ED66C1D6A46.jpeg",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/64247d944c6f0a7951297640b3d921c705cebe3ec6abd165563494f5a9ce2a9d-065E693C-0197-4C9A-A8E5-3ED66C1D6A46.jpeg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/77104AFD-D95B-4770-9E9C-E846E098FC97.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "77104AFD-D95B-4770-9E9C-E846E098FC97.jpeg",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/282342a471639dc5d5df80f2e14290996023c8f76b39e8067f24e424eedf8018-77104AFD-D95B-4770-9E9C-E846E098FC97.jpeg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Nosifer-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Nosifer-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/1629c2a4e484eaa68d5a0072488006012b72c539d11429b015f7382e7ecfd633_Nosifer-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/DotGothic16-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "DotGothic16-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/561d75b195f4dfcbdf0c38511984c83680574032d6b8c3c6a436a4fd32094320_DotGothic16-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/image/95717D5F-216B-426A-AFBD-E4997787999B.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "95717D5F-216B-426A-AFBD-E4997787999B.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/dc536722130d9b72af633efc1be554a2012029839118f25ffc9c065dedf22349-95717D5F-216B-426A-AFBD-E4997787999B.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/003C01E3-FBF8-4003-BD18-69E014A2369A.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "003C01E3-FBF8-4003-BD18-69E014A2369A.jpeg",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/ccf9d9adca4cb59c8436c9f06bedd9761beb8b2b2f9f51ba48d61c5061463843-003C01E3-FBF8-4003-BD18-69E014A2369A.jpeg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/IMG_5517.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_5517.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/3f108062d0087a4f8080377d94fd88ffaa99ceed429b398c08d15a759624d36e-IMG_5517.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/IMG_5207.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_5207.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/4b5e440d8f4fd3efcdf47313b9808fc062beb8aea9cd0d426cefc57ca06778b9-IMG_5207.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/IMG_5518.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IMG_5518.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/3da1256fca3b67627fe7e8a9592ebc3be5fce36636f0b011bd2d76a3ca516f08-IMG_5518.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/image/18D57CD4-3973-49F4-94C2-F26AFB71D0FA.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "18D57CD4-3973-49F4-94C2-F26AFB71D0FA.jpeg",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/13f7c4ca5b2736d0018eef40b9e0165479936332fe77dc782ef1313e2cb1a263-18D57CD4-3973-49F4-94C2-F26AFB71D0FA.jpeg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/audio/dragon-studio-i-see-you-creepy-ghost-whisper-401711.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "dragon-studio-i-see-you-creepy-ghost-whisper-401711.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/69373565c788724423f31da03a8f99bbe7d41c812d73804f7ed8f2ca01a7576c-dragon-studio-i-see-you-creepy-ghost-whisper-401711.mp3",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Kenney High.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Kenney High.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/29a325d4623fa82220ec5850621533a599109f4300f54bb88838d1124110b39a_Kenney High.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/image/YOU-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "YOU-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/bcea91d8-edd5-45f5-8694-c13b141f6640/resources/96d72fe13c2547407fac4a44a1b150c4989a1588ec400cbb8cb1b570b178ea1e-YOU-removebg-preview.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/Poppins-Medium.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Poppins-Medium.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "image24.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "image24.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "image41.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "image41.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ]
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mainmenu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/officemain-game"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/end-scene-winloss"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/night-screen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/introcutscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/warning-scene"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/fnaf5nightssystem"
+    }
+  ],
+  "externalLayouts": []
+}
